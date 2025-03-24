@@ -1,0 +1,92 @@
+---
+title: "국세청 천분위 소득자료(2012-2023)"
+subtitle: "- 통합소득/근로소득/종합소득 천분위 자료 분석 결과 - "
+author:
+  - name: 박영삼
+    orcid: 0000-0001-8771-9509
+    email: youngsampk@gmail.com
+    affiliations:
+      - name: 고려대 노동문제연구소 노동데이터센터
+  - name:
+     given: "Florence"
+     family: "Nightingale"
+     literal: "Prof. Florence Nightingale"
+    email: "florence@anu.edu.au"
+    affiliations:
+      - name: Australian National University
+        department: Research School of Visualiation
+    role: 
+     - conceptualization
+     - methodology
+  - name: "Ronald Fisher"
+    email: "ronald@anu.edu.au"
+    affiliation: 
+     - name: "Australian National University"
+       department: "Frequentist Statistics Institute"
+  - name: Chat GPT
+    affiliation: "OpenAI"
+date: 2025-03-25
+date-modified: last-modified
+categories: 
+ - 소득분배
+ - 개인소득
+ - 국세통계
+keywords: 
+ - 국세청 천분위 소득자료
+ - 개인소득분배
+ - 불평등
+summary: |
+  The report delineates key principles, such as version control and data sharing, and introduces practical tools like RMarkdown, Jupyter Notebooks, and Docker. Reproducible research significantly boosts the credibility of scientific findings, fostering collaboration, iterative improvements, and efficient communication. The document addresses challenges like data privacy and infrastructure constraints, proposing solutions such as anonymization and institutional support. Recognizing the transformative impact of reproducibility, the report concludes that its adoption contributes to building a culture of transparency and accountability in scientific endeavors, laying the groundwork for a more robust foundation in advancing knowledge. Recommendations include providing training resources, support infrastructure, and guidelines to facilitate the integration of reproducible research practices into standard workflows.
+description: |
+  This report template is available at [github.com/anuopensci/quarto-anu-report](https://github.com/anuopensci/quarto-anu-report).
+format:
+  anu-report-html: 
+    hide-description: false
+    hide-summary: false
+    summary-title: "Executive Summary"
+  anu-report-pdf: 
+    hide-description: false
+    hide-summary: false
+    keep-tex: true
+    summary-title: "Executive Summary"
+  anu-report-docx: default
+bibliography: ref.bib
+---
+
+
+## Introduction
+
+Reproducible research is an essential paradigm that promotes the idea that scientific investigations should be transparent, verifiable, and accessible to others. In an era where the scientific community faces concerns about the replicability of research findings, adopting reproducible research practices becomes imperative.
+
+This document uses @quarto.
+
+
+## Key Benefits of Reproducible Research
+
+- _Increased Credibility_: Transparent and reproducible research enhances the credibility of scientific findings, as others can independently verify and validate the results.
+- _Collaboration and Iteration_: Open sharing of code and data facilitates collaboration among researchers and allows for the iterative improvement of studies over time.
+- _Efficient Communication_: Reproducible research documents serve as comprehensive and self-contained artifacts, aiding in effective communication of methodologies and results.
+
+## Method
+
+### Getting started
+
+1. Install [Quarto](https://quarto.org/docs/get-started/).
+2. You may need to install Public Sans font if you do not have it. You can find it [here](https://github.com/anuopensci/quarto-anu-report/tree/main/_extensions/anu-report/assets/webfonts).
+3. The easiest way to edit and render the document is using the [RStudio IDE](https://posit.co/download/rstudio-desktop/). If you prefer not to install R, then you can use VS Code instead.
+4. From the Terminal run the following command
+```bash
+quarto use template anuopensci/quarto-anu-report
+```
+
+
+
+## Conclusion
+
+
+This report underscores the transformative impact of reproducible research on the scientific landscape, promoting a commitment to openness and accountability for the benefit of the entire research community.
+
+
+## References
+
+

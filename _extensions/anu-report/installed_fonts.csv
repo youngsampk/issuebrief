@@ -1,0 +1,694 @@
+"path","index","name","family","style","weight","width","italic","monospace"
+"C:\WINDOWS\Fonts\arial.ttf",0,"ArialMT","Arial","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ariblk.ttf",0,"Arial-Black","Arial","Black","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\arialbd.ttf",0,"Arial-BoldMT","Arial","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\arialbi.ttf",0,"Arial-BoldItalicMT","Arial","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ariali.ttf",0,"Arial-ItalicMT","Arial","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\bahnschrift.ttf",0,"Bahnschrift","Bahnschrift","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\calibri.ttf",0,"Calibri","Calibri","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\calibrib.ttf",0,"Calibri-Bold","Calibri","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\calibriz.ttf",0,"Calibri-BoldItalic","Calibri","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\calibrii.ttf",0,"Calibri-Italic","Calibri","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\calibril.ttf",0,"Calibri-Light","Calibri","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\calibrili.ttf",0,"Calibri-LightItalic","Calibri","Light Italic","light","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\cambria.ttc",0,"Cambria","Cambria","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\cambria.ttc",1,"CambriaMath","Cambria Math","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\cambriab.ttf",0,"Cambria-Bold","Cambria","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\cambriaz.ttf",0,"Cambria-BoldItalic","Cambria","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\cambriai.ttf",0,"Cambria-Italic","Cambria","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\candara.ttf",0,"Candara","Candara","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\candarab.ttf",0,"Candara-Bold","Candara","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\candaraz.ttf",0,"Candara-BoldItalic","Candara","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\candarai.ttf",0,"Candara-Italic","Candara","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\candaral.ttf",0,"Candara-Light","Candara","Light","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\candarali.ttf",0,"Candara-LightItalic","Candara","Light Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\comic.ttf",0,"ComicSansMS","Comic Sans MS","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\comicbd.ttf",0,"ComicSansMS-Bold","Comic Sans MS","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\comicz.ttf",0,"ComicSansMS-BoldItalic","Comic Sans MS","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\comici.ttf",0,"ComicSansMS-Italic","Comic Sans MS","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\consola.ttf",0,"Consolas","Consolas","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\consolab.ttf",0,"Consolas-Bold","Consolas","Bold","bold","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\consolaz.ttf",0,"Consolas-BoldItalic","Consolas","Bold Italic","bold","normal",TRUE,TRUE
+"C:\WINDOWS\Fonts\consolai.ttf",0,"Consolas-Italic","Consolas","Italic","normal","normal",TRUE,TRUE
+"C:\WINDOWS\Fonts\constan.ttf",0,"Constantia","Constantia","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\constanb.ttf",0,"Constantia-Bold","Constantia","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\constanz.ttf",0,"Constantia-BoldItalic","Constantia","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\constani.ttf",0,"Constantia-Italic","Constantia","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\corbel.ttf",0,"Corbel","Corbel","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\corbelb.ttf",0,"Corbel-Bold","Corbel","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\corbelz.ttf",0,"Corbel-BoldItalic","Corbel","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\corbeli.ttf",0,"Corbel-Italic","Corbel","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\corbell.ttf",0,"CorbelLight","Corbel","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\corbelli.ttf",0,"CorbelLight-Italic","Corbel","Light Italic","light","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\cour.ttf",0,"CourierNewPSMT","Courier New","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\courbd.ttf",0,"CourierNewPS-BoldMT","Courier New","Bold","bold","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\courbi.ttf",0,"CourierNewPS-BoldItalicMT","Courier New","Bold Italic","bold","normal",TRUE,TRUE
+"C:\WINDOWS\Fonts\couri.ttf",0,"CourierNewPS-ItalicMT","Courier New","Italic","normal","normal",TRUE,TRUE
+"C:\WINDOWS\Fonts\ebrima.ttf",0,"Ebrima","Ebrima","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ebrimabd.ttf",0,"Ebrima-Bold","Ebrima","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\framd.ttf",0,"FranklinGothic-Medium","Franklin Gothic Medium","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\framdit.ttf",0,"FranklinGothic-MediumItalic","Franklin Gothic Medium","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\Gabriola.ttf",0,"Gabriola","Gabriola","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\gadugi.ttf",0,"Gadugi","Gadugi","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\gadugib.ttf",0,"Gadugi-Bold","Gadugi","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\georgia.ttf",0,"Georgia","Georgia","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\georgiab.ttf",0,"Georgia-Bold","Georgia","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\georgiaz.ttf",0,"Georgia-BoldItalic","Georgia","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\georgiai.ttf",0,"Georgia-Italic","Georgia","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\impact.ttf",0,"Impact","Impact","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\Inkfree.ttf",0,"InkFree","Ink Free","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\javatext.ttf",0,"JavaneseText","Javanese Text","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\leelawui.ttf",0,"LeelawadeeUI","Leelawadee UI","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\leelauib.ttf",0,"LeelawadeeUI-Bold","Leelawadee UI","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\leeluisl.ttf",0,"LeelawadeeUI-Semilight","Leelawadee UI","Semilight",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\lucon.TTF",0,"LucidaConsole","Lucida Console","Regular","normal","semicondensed",FALSE,TRUE
+"C:\WINDOWS\Fonts\l_10646.ttf",0,"LucidaSansUnicode","Lucida Sans Unicode","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\malgun.ttf",0,"MalgunGothic","Malgun Gothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\malgunbd.ttf",0,"MalgunGothicBold","Malgun Gothic","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\malgunsl.ttf",0,"MalgunGothic-Semilight","Malgun Gothic","Semilight","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\himalaya.ttf",0,"MicrosoftHimalaya","Microsoft Himalaya","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msjh.ttc",0,"MicrosoftJhengHeiRegular","Microsoft JhengHei","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msjh.ttc",1,"MicrosoftJhengHeiUIRegular","Microsoft JhengHei UI","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msjhbd.ttc",0,"MicrosoftJhengHeiBold","Microsoft JhengHei","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msjhbd.ttc",1,"MicrosoftJhengHeiUIBold","Microsoft JhengHei UI","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msjhl.ttc",0,"MicrosoftJhengHeiLight","Microsoft JhengHei","Light",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msjhl.ttc",1,"MicrosoftJhengHeiUILight","Microsoft JhengHei UI","Light",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ntailu.ttf",0,"MicrosoftNewTaiLue","Microsoft New Tai Lue","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ntailub.ttf",0,"MicrosoftNewTaiLue-Bold","Microsoft New Tai Lue","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\phagspa.ttf",0,"MicrosoftPhagsPa","Microsoft PhagsPa","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\phagspab.ttf",0,"MicrosoftPhagsPa-Bold","Microsoft PhagsPa","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\micross.ttf",0,"MicrosoftSansSerif","Microsoft Sans Serif","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\taile.ttf",0,"MicrosoftTaiLe","Microsoft Tai Le","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\taileb.ttf",0,"MicrosoftTaiLe-Bold","Microsoft Tai Le","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msyh.ttc",0,"MicrosoftYaHei","Microsoft YaHei","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msyh.ttc",1,"MicrosoftYaHeiUI","Microsoft YaHei UI","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msyhbd.ttc",0,"MicrosoftYaHei-Bold","Microsoft YaHei","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msyhbd.ttc",1,"MicrosoftYaHeiUI-Bold","Microsoft YaHei UI","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msyhl.ttc",0,"MicrosoftYaHeiLight","Microsoft YaHei","Light",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msyhl.ttc",1,"MicrosoftYaHeiUILight","Microsoft YaHei UI","Light",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msyi.ttf",0,"Microsoft-Yi-Baiti","Microsoft Yi Baiti","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\mingliub.ttc",0,"MingLiU-ExtB","MingLiU-ExtB","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\mingliub.ttc",1,"PMingLiU-ExtB","PMingLiU-ExtB","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\mingliub.ttc",2,"Ming-Lt-HKSCS-ExtB","MingLiU_HKSCS-ExtB","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\monbaiti.ttf",0,"MongolianBaiti","Mongolian Baiti","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msgothic.ttc",0,"MS-Gothic","MS Gothic","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\msgothic.ttc",1,"MS-UIGothic","MS UI Gothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\msgothic.ttc",2,"MS-PGothic","MS PGothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\mvboli.ttf",0,"MVBoli","MV Boli","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\mmrtext.ttf",0,"MyanmarText","Myanmar Text","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\mmrtextb.ttf",0,"MyanmarText-Bold","Myanmar Text","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Nirmala.ttf",0,"NirmalaUI","Nirmala UI","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NirmalaB.ttf",0,"NirmalaUI-Bold","Nirmala UI","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NirmalaS.ttf",0,"NirmalaUI-Semilight","Nirmala UI","Semilight",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\pala.ttf",0,"PalatinoLinotype-Roman","Palatino Linotype","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\palab.ttf",0,"PalatinoLinotype-Bold","Palatino Linotype","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\palabi.ttf",0,"PalatinoLinotype-BoldItalic","Palatino Linotype","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\palai.ttf",0,"PalatinoLinotype-Italic","Palatino Linotype","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\segmdl2.ttf",0,"SegoeMDL2Assets","Segoe MDL2 Assets","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\segoepr.ttf",0,"SegoePrint","Segoe Print","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\segoeprb.ttf",0,"SegoePrint-Bold","Segoe Print","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\segoesc.ttf",0,"SegoeScript","Segoe Script","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\segoescb.ttf",0,"SegoeScript-Bold","Segoe Script","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\segoeui.ttf",0,"SegoeUI","Segoe UI","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\seguibl.ttf",0,"SegoeUIBlack","Segoe UI","Black","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\seguibli.ttf",0,"SegoeUIBlack-Italic","Segoe UI","Black Italic","heavy","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\segoeuib.ttf",0,"SegoeUI-Bold","Segoe UI","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\segoeuiz.ttf",0,"SegoeUI-BoldItalic","Segoe UI","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\seguiemj.ttf",0,"SegoeUIEmoji","Segoe UI Emoji","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\seguihis.ttf",0,"SegoeUIHistoric","Segoe UI Historic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\segoeuii.ttf",0,"SegoeUI-Italic","Segoe UI","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\segoeuil.ttf",0,"SegoeUI-Light","Segoe UI","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\seguili.ttf",0,"SegoeUI-LightItalic","Segoe UI","Light Italic","light","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\seguisb.ttf",0,"SegoeUI-Semibold","Segoe UI","Semibold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\seguisbi.ttf",0,"SegoeUI-SemiboldItalic","Segoe UI","Semibold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\segoeuisl.ttf",0,"SegoeUI-Semilight","Segoe UI","Semilight",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\seguisli.ttf",0,"SegoeUI-SemilightItalic","Segoe UI","Semilight Italic",NA,"normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\seguisym.ttf",0,"SegoeUISymbol","Segoe UI Symbol","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\simsun.ttc",0,"SimSun","SimSun","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\simsun.ttc",1,"NSimSun","NSimSun","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\simsunb.ttf",0,"SimSun-ExtB","SimSun-ExtB","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\Sitka.ttc",0,"SitkaSmall","Sitka Small","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Sitka.ttc",1,"SitkaText","Sitka Text","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Sitka.ttc",2,"SitkaSubheading","Sitka Subheading","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Sitka.ttc",3,"SitkaHeading","Sitka Heading","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Sitka.ttc",4,"SitkaDisplay","Sitka Display","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Sitka.ttc",5,"SitkaBanner","Sitka Banner","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SitkaB.ttc",0,"SitkaSmall-Bold","Sitka Small","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SitkaB.ttc",1,"SitkaText-Bold","Sitka Text","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SitkaB.ttc",2,"SitkaSubheading-Bold","Sitka Subheading","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SitkaB.ttc",3,"SitkaHeading-Bold","Sitka Heading","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SitkaB.ttc",4,"SitkaDisplay-Bold","Sitka Display","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SitkaB.ttc",5,"SitkaBanner-Bold","Sitka Banner","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SitkaZ.ttc",0,"SitkaSmall-BoldItalic","Sitka Small","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaZ.ttc",1,"SitkaText-BoldItalic","Sitka Text","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaZ.ttc",2,"SitkaSubheading-BoldItalic","Sitka Subheading","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaZ.ttc",3,"SitkaHeading-BoldItalic","Sitka Heading","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaZ.ttc",4,"SitkaDisplay-BoldItalic","Sitka Display","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaZ.ttc",5,"SitkaBanner-BoldItalic","Sitka Banner","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaI.ttc",0,"SitkaSmall-Italic","Sitka Small","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaI.ttc",1,"SitkaText-Italic","Sitka Text","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaI.ttc",2,"SitkaSubheading-Italic","Sitka Subheading","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaI.ttc",3,"SitkaHeading-Italic","Sitka Heading","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaI.ttc",4,"SitkaDisplay-Italic","Sitka Display","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SitkaI.ttc",5,"SitkaBanner-Italic","Sitka Banner","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\sylfaen.ttf",0,"Sylfaen","Sylfaen","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\symbol.ttf",0,"SymbolMT","Symbol","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\tahoma.ttf",0,"Tahoma","Tahoma","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\tahomabd.ttf",0,"Tahoma-Bold","Tahoma","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\times.ttf",0,"TimesNewRomanPSMT","Times New Roman","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\timesbd.ttf",0,"TimesNewRomanPS-BoldMT","Times New Roman","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\timesbi.ttf",0,"TimesNewRomanPS-BoldItalicMT","Times New Roman","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\timesi.ttf",0,"TimesNewRomanPS-ItalicMT","Times New Roman","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\trebuc.ttf",0,"TrebuchetMS","Trebuchet MS","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\trebucbd.ttf",0,"TrebuchetMS-Bold","Trebuchet MS","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\trebucbi.ttf",0,"Trebuchet-BoldItalic","Trebuchet MS","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\trebucit.ttf",0,"TrebuchetMS-Italic","Trebuchet MS","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\verdana.ttf",0,"Verdana","Verdana","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\verdanab.ttf",0,"Verdana-Bold","Verdana","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\verdanaz.ttf",0,"Verdana-BoldItalic","Verdana","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\verdanai.ttf",0,"Verdana-Italic","Verdana","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\webdings.ttf",0,"Webdings","Webdings","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\wingding.ttf",0,"Wingdings-Regular","Wingdings","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothB.ttc",0,"YuGothic-Bold","Yu Gothic","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothB.ttc",1,"YuGothicUI-Bold","Yu Gothic UI","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothB.ttc",2,"YuGothicUI-Semibold","Yu Gothic UI","Semibold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothL.ttc",0,"YuGothic-Light","Yu Gothic","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothL.ttc",1,"YuGothicUI-Light","Yu Gothic UI","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothM.ttc",0,"YuGothic-Medium","Yu Gothic","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothM.ttc",1,"YuGothicUI-Regular","Yu Gothic UI","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothR.ttc",0,"YuGothic-Regular","Yu Gothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\YuGothR.ttc",1,"YuGothicUI-Semilight","Yu Gothic UI","Semilight",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\COURE.FON",0,"","Courier","Regular",NA,NA,FALSE,TRUE
+"C:\WINDOWS\Fonts\COURE.FON",1,"","Courier","Regular",NA,NA,FALSE,TRUE
+"C:\WINDOWS\Fonts\COURE.FON",2,"","Courier","Regular",NA,NA,FALSE,TRUE
+"C:\WINDOWS\Fonts\COURF.FON",0,"","Courier","Regular",NA,NA,FALSE,TRUE
+"C:\WINDOWS\Fonts\COURF.FON",1,"","Courier","Regular",NA,NA,FALSE,TRUE
+"C:\WINDOWS\Fonts\COURF.FON",2,"","Courier","Regular",NA,NA,FALSE,TRUE
+"C:\WINDOWS\Fonts\SERIFE.FON",0,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFE.FON",1,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFE.FON",2,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFE.FON",3,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFE.FON",4,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFE.FON",5,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFF.FON",0,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFF.FON",1,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFF.FON",2,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFF.FON",3,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFF.FON",4,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SERIFF.FON",5,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFE.FON",0,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFE.FON",1,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFE.FON",2,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFE.FON",3,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFE.FON",4,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFE.FON",5,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFF.FON",0,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFF.FON",1,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFF.FON",2,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFF.FON",3,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFF.FON",4,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SSERIFF.FON",5,"","MS Sans Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",0,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",1,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",2,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",3,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",4,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",5,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",6,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLE.FON",7,"","MS Serif","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLF.FON",0,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLF.FON",1,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLF.FON",2,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLF.FON",3,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLF.FON",4,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\SMALLF.FON",5,"","Small Fonts","Regular",NA,NA,FALSE,FALSE
+"C:\WINDOWS\Fonts\batang.ttc",0,"Batang","Batang","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\batang.ttc",1,"BatangChe","BatangChe","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\batang.ttc",2,"Gungsuh","Gungsuh","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\batang.ttc",3,"GungsuhChe","GungsuhChe","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\gulim.ttc",0,"Gulim","Gulim","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\gulim.ttc",1,"GulimChe","GulimChe","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\gulim.ttc",2,"Dotum","Dotum","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\gulim.ttc",3,"DotumChe","DotumChe","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\holomdl2.ttf",0,"HoloLensMDL2Assets","HoloLens MDL2 Assets","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ANTQUAB.TTF",0,"BookAntiqua-Bold","Book Antiqua","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ANTQUABI.TTF",0,"BookAntiqua-BoldItalic","Book Antiqua","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ANTQUAI.TTF",0,"BookAntiqua-Italic","Book Antiqua","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ARIALN.TTF",0,"ArialNarrow","Arial","Narrow","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\ARIALNB.TTF",0,"ArialNarrow-Bold","Arial","Narrow Bold","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\ARIALNBI.TTF",0,"ArialNarrow-BoldItalic","Arial","Narrow Bold Italic","bold","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\ARIALNI.TTF",0,"ArialNarrow-Italic","Arial","Narrow Italic","normal","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\BKANT.TTF",0,"BookAntiqua","Book Antiqua","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOOKOS.TTF",0,"BookmanOldStyle","Bookman Old Style","Regular","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOOKOSB.TTF",0,"BookmanOldStyle-Bold","Bookman Old Style","Bold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOOKOSBI.TTF",0,"BookmanOldStyle-BoldItalic","Bookman Old Style","Bold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\BOOKOSI.TTF",0,"BookmanOldStyle-Italic","Bookman Old Style","Italic","light","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\BRADHITC.TTF",0,"BradleyHandITC","Bradley Hand ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CENTURY.TTF",0,"Century","Century","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\DUBAI-BOLD.TTF",0,"Dubai-Bold","Dubai","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\DUBAI-LIGHT.TTF",0,"Dubai-Light","Dubai","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\DUBAI-MEDIUM.TTF",0,"Dubai-Medium","Dubai","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\DUBAI-REGULAR.TTF",0,"Dubai-Regular","Dubai","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FREESCPT.TTF",0,"FreestyleScript-Regular","Freestyle Script","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FRSCRIPT.TTF",0,"FrenchScriptMT","French Script MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GARA.TTF",0,"Garamond","Garamond","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GARABD.TTF",0,"Garamond-Bold","Garamond","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GARAIT.TTF",0,"Garamond-Italic","Garamond","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\GOTHIC.TTF",0,"CenturyGothic","Century Gothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GOTHICB.TTF",0,"CenturyGothic-Bold","Century Gothic","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GOTHICBI.TTF",0,"CenturyGothic-BoldItalic","Century Gothic","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\GOTHICI.TTF",0,"CenturyGothic-Italic","Century Gothic","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\H2GPRM.TTF",0,"H2gprM","HYGraphic-Medium","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2GSRB.TTF",0,"H2gsrB","HYGungSo-Bold","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2GTRE.TTF",0,"H2gtrE","HYGothic-Extra","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2GTRM.TTF",0,"H2gtrM","HYGothic-Medium","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2HDRM.TTF",0,"H2hdrM","HYHeadLine-Medium","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2MJRE.TTF",0,"H2mjrE","HYMyeongJo-Extra","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2MJSM.TTF",0,"H2mjsM","HYSinMyeongJo-Medium","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2MKPB.TTF",0,"H2mkpB","HYPMokGak-Bold","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2PORL.TTF",0,"H2porL","HYPost-Light","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2PORM.TTF",0,"H2porM","HYPost-Medium","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\H2SA1M.TTF",0,"H2sa1M","HYShortSamul-Medium","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HMFMOLD.TTF",0,"YetR-HM","Yet R","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HMFMPYUN.TTF",0,"PyunjiR-HM","Pyunji R","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HMKMAMI.TTF",0,"AmiR-HM","Ami R","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HMKMMAG.TTF",0,"MagicR-HM","Magic R","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HMKMRHD.TTF",0,"HeadlineR-HM","Headline R","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ITCKRIST.TTF",0,"KristenITC-Regular","Kristen ITC","Regular","normal","semiexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\JUICE___.TTF",0,"JuiceITC-Regular","Juice ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LHANDW.TTF",0,"LucidaHandwriting-Italic","Lucida Handwriting","Italic","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MISTRAL.TTF",0,"Mistral","Mistral","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MTCORSVA.TTF",0,"MonotypeCorsiva","Monotype Corsiva","Regular","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\NGULIM.TTF",0,"NewGulim","New Gulim","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PAPYRUS.TTF",0,"Papyrus-Regular","Papyrus","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PRISTINA.TTF",0,"Pristina-Regular","Pristina","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TEMPSITC.TTF",0,"TempusSansITC","Tempus Sans ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\WINGDNG2.TTF",0,"Wingdings2","Wingdings 2","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\WINGDNG3.TTF",0,"Wingdings3","Wingdings 3","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HMFMMUEX.TTC",0,"MoeumTR-HM","MoeumT R","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HMFMMUEX.TTC",1,"ExpoM-HM","Expo M","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\08SeoulNamsanL.ttf",0,"SeoulNamsanL","08SeoulNamsan","L","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\08SeoulNamsanM.ttf",0,"SeoulNamsanM","08SeoulNamsan","M","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\08SeoulNamsanB.ttf",0,"SeoulNamsanB","08SeoulNamsan","B","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\08SeoulNamsanEB.ttf",0,"SeoulNamsanEB","08SeoulNamsan","EB","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\08SeoulNamsanvert.ttf",0,"SeoulNamsanvert","08SeoulNamsan","vert","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\08SeoulHangangL.ttf",0,"SeoulHangangL","08SeoulHangang","L","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\08SeoulHangangM.ttf",0,"SeoulHangangM","08SeoulHangang","M","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ALGER.TTF",0,"Algerian","Algerian","Regular","normal","extracondensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\BASKVILL.TTF",0,"BaskOldFace","Baskerville Old Face","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BAUHS93.TTF",0,"Bauhaus93","Bauhaus 93","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BELL.TTF",0,"BellMT","Bell MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BRLNSB.TTF",0,"BerlinSansFB-Bold","Berlin Sans FB","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BERNHC.TTF",0,"BernardMT-Condensed","Bernard MT Condensed","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOD_PSTC.TTF",0,"BodoniMTPosterCompressed","Bodoni MT","Poster Compressed","light","extracondensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\BRITANIC.TTF",0,"BritannicBold","Britannic Bold","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BROADW.TTF",0,"Broadway","Broadway","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BRUSHSCI.TTF",0,"BrushScriptMT","Brush Script MT","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\CALIFR.TTF",0,"CalifornianFB-Reg","Californian FB","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CENTAUR.TTF",0,"Centaur","Centaur","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CHILLER.TTF",0,"Chiller-Regular","Chiller","Regular","normal","semiexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\COLONNA.TTF",0,"ColonnaMT","Colonna MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\COOPBL.TTF",0,"CooperBlack","Cooper Black","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FTLTLT.TTF",0,"FootlightMTLight","Footlight MT Light","Regular","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HARLOWSI.TTF",0,"HarlowSolid","Harlow Solid Italic","Italic","normal","semiexpanded",TRUE,FALSE
+"C:\WINDOWS\Fonts\HARNGTON.TTF",0,"Harrington","Harrington","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HTOWERT.TTF",0,"HighTowerText-Reg","High Tower Text","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\JOKERMAN.TTF",0,"Jokerman-Regular","Jokerman","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KUNSTLER.TTF",0,"KunstlerScript","Kunstler Script","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LBRITE.TTF",0,"LucidaBright","Lucida Bright","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LCALLIG.TTF",0,"LucidaCalligraphy-Italic","Lucida Calligraphy","Italic","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LFAX.TTF",0,"LucidaFax","Lucida Fax","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MAGNETOB.TTF",0,"Magneto-Bold","Magneto","Bold","bold","semiexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\MATURASC.TTF",0,"MaturaMTScriptCapitals","Matura MT Script Capitals","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MOD20.TTF",0,"Modern-Regular","Modern No. 20","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NIAGENG.TTF",0,"NiagaraEngraved-Reg","Niagara Engraved","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\NIAGSOL.TTF",0,"NiagaraSolid-Reg","Niagara Solid","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\OLDENGL.TTF",0,"OldEnglishTextMT","Old English Text MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ONYX.TTF",0,"Onyx","Onyx","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PARCHM.TTF",0,"Parchment-Regular","Parchment","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PLAYBILL.TTF",0,"Playbill","Playbill","Regular","normal","ultracondensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\POORICH.TTF",0,"PoorRichard-Regular","Poor Richard","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\RAVIE.TTF",0,"Ravie","Ravie","Regular","normal","semiexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\INFROMAN.TTF",0,"InformalRoman-Regular","Informal Roman","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SHOWG.TTF",0,"ShowcardGothic-Reg","Showcard Gothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SNAP____.TTF",0,"SnapITC-Regular","Snap ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\STENCIL.TTF",0,"Stencil","Stencil","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\VINERITC.TTF",0,"VinerHandITC","Viner Hand ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\VIVALDII.TTF",0,"Vivaldii","Vivaldi","Italic","normal","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\VLADIMIR.TTF",0,"VladimirScript","Vladimir Script","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LATINWD.TTF",0,"LatinWide","Wide Latin","Regular","normal","ultraexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\TCM_____.TTF",0,"TwCenMT-Regular","Tw Cen MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TCCB____.TTF",0,"TwCenMT-CondensedBold","Tw Cen MT Condensed","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TCCM____.TTF",0,"TwCenMT-Condensed","Tw Cen MT Condensed","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TCB_____.TTF",0,"TwCenMT-Bold","Tw Cen MT","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SCRIPTBL.TTF",0,"ScriptMTBold","Script MT Bold","Regular","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ROCKEB.TTF",0,"Rockwell-ExtraBold","Rockwell Extra Bold","Regular","ultrabold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ROCC____.TTF",0,"Rockwell-Condensed","Rockwell Condensed","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\ROCK.TTF",0,"Rockwell","Rockwell","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\RAGE.TTF",0,"RageItalic","Rage Italic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PERTIBD.TTF",0,"PerpetuaTitlingMT-Bold","Perpetua Titling MT","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PER_____.TTF",0,"Perpetua","Perpetua","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PALSCRI.TTF",0,"PalaceScriptMT","Palace Script MT","Regular","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\OCRAEXT.TTF",0,"OCRAExtended","OCR A Extended","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MAIAN.TTF",0,"MaiandraGD-Regular","Maiandra GD","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\IMPRISHA.TTF",0,"ImprintMT-Shadow","Imprint MT Shadow","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HATTEN.TTF",0,"Haettenschweiler","Haettenschweiler","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GOUDYSTO.TTF",0,"GoudyStout","Goudy Stout","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GOUDOS.TTF",0,"GoudyOldStyleT-Regular","Goudy Old Style","Regular","normal","semiexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\GLECB.TTF",0,"GloucesterMT-ExtraCondensed","Gloucester MT Extra Condensed","Regular","normal","extracondensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\GILLUBCD.TTF",0,"GillSans-UltraBoldCondensed","Gill Sans Ultra Bold Condensed","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\GILSANUB.TTF",0,"GillSans-UltraBold","Gill Sans Ultra Bold","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GILC____.TTF",0,"GillSansMT-Condensed","Gill Sans MT Condensed","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\GIL_____.TTF",0,"GillSansMT","Gill Sans MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GLSNECB.TTF",0,"GillSansMT-ExtraCondensedBold","Gill Sans MT Ext Condensed Bold","Regular","normal","extracondensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\GIGI.TTF",0,"Gigi-Regular","Gigi","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FRAMDCN.TTF",0,"FranklinGothic-MediumCond","Franklin Gothic Medium Cond","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\FRAHV.TTF",0,"FranklinGothic-Heavy","Franklin Gothic Heavy","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FRADMCN.TTF",0,"FranklinGothic-DemiCond","Franklin Gothic Demi Cond","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\FRADM.TTF",0,"FranklinGothic-Demi","Franklin Gothic Demi","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FRABK.TTF",0,"FranklinGothic-Book","Franklin Gothic Book","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FORTE.TTF",0,"ForteMT","Forte","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\FELIXTI.TTF",0,"FelixTitlingMT","Felix Titling","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ERASMD.TTF",0,"ErasITC-Medium","Eras Medium ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ERASLGHT.TTF",0,"ErasITC-Light","Eras Light ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ERASDEMI.TTF",0,"ErasITC-Demi","Eras Demi ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ERASBD.TTF",0,"ErasITC-Bold","Eras Bold ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ENGR.TTF",0,"EngraversMT","Engravers MT","Regular","medium","expanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\ELEPHNT.TTF",0,"Elephant-Regular","Elephant","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ITCEDSCR.TTF",0,"EdwardianScriptITC","Edwardian Script ITC","Regular","normal","semiexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\CURLZ___.TTF",0,"CurlzMT","Curlz MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\COPRGTL.TTF",0,"CopperplateGothic-Light","Copperplate Gothic Light","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\COPRGTB.TTF",0,"CopperplateGothic-Bold","Copperplate Gothic Bold","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CENSCBK.TTF",0,"CenturySchoolbook","Century Schoolbook","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CASTELAR.TTF",0,"Castellar","Castellar","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CALIST.TTF",0,"CalistoMT","Calisto MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOD_CR.TTF",0,"BodoniMTCondensed","Bodoni MT","Condensed","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOD_BLAR.TTF",0,"BodoniMTBlack","Bodoni MT","Black","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOD_R.TTF",0,"BodoniMT","Bodoni MT","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ITCBLKAD.TTF",0,"BlackadderITC-Regular","Blackadder ITC","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ARLRDBD.TTF",0,"ArialRoundedMTBold","Arial Rounded MT Bold","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AGENCYB.TTF",0,"AgencyFB-Bold","Agency FB","Bold","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\BELLB.TTF",0,"BellMTBold","Bell MT","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BELLI.TTF",0,"BellMTItalic","Bell MT","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\BRLNSDB.TTF",0,"BerlinSansFBDemi-Bold","Berlin Sans FB Demi","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BRLNSR.TTF",0,"BerlinSansFB-Reg","Berlin Sans FB","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CALIFB.TTF",0,"CalifornianFB-Bold","Californian FB","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CALIFI.TTF",0,"CalifornianFB-Italic","Californian FB","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\HTOWERTI.TTF",0,"HighTowerText-Italic","High Tower Text","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\LFAXD.TTF",0,"LucidaFax-Demi","Lucida Fax","Demibold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LFAXDI.TTF",0,"LucidaFax-DemiItalic","Lucida Fax","Demibold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\LFAXI.TTF",0,"LucidaFax-Italic","Lucida Fax","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\TCMI____.TTF",0,"TwCenMT-Italic","Tw Cen MT","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\TCCEB.TTF",0,"TwCenMT-CondensedExtraBold","Tw Cen MT Condensed Extra Bold","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TCBI____.TTF",0,"TwCenMT-BoldItalic","Tw Cen MT","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ROCCB___.TTF",0,"Rockwell-CondensedBold","Rockwell Condensed","Bold","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\ROCKB.TTF",0,"Rockwell-Bold","Rockwell","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ROCKBI.TTF",0,"Rockwell-BoldItalic","Rockwell","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ROCKI.TTF",0,"Rockwell-Italic","Rockwell","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\PERTILI.TTF",0,"PerpetuaTitlingMT-Light","Perpetua Titling MT","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PERBI___.TTF",0,"Perpetua-BoldItalic","Perpetua","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\PERB____.TTF",0,"Perpetua-Bold","Perpetua","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PERI____.TTF",0,"Perpetua-Italic","Perpetua","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\LTYPEBO.TTF",0,"LucidaSans-TypewriterBoldOblique","Lucida Sans Typewriter","Bold Oblique","semibold","semicondensed",TRUE,TRUE
+"C:\WINDOWS\Fonts\LTYPEO.TTF",0,"LucidaSans-TypewriterOblique","Lucida Sans Typewriter","Oblique","normal","semicondensed",TRUE,TRUE
+"C:\WINDOWS\Fonts\LSANSD.TTF",0,"LucidaSans-Demi","Lucida Sans","Demibold Roman","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LSANSDI.TTF",0,"LucidaSans-DemiItalic","Lucida Sans","Demibold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\LSANSI.TTF",0,"LucidaSans-Italic","Lucida Sans","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\GOUDOSB.TTF",0,"GoudyOldStyleT-Bold","Goudy Old Style","Bold","bold","semiexpanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\GOUDOSI.TTF",0,"GoudyOldStyleT-Italic","Goudy Old Style","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\GILBI___.TTF",0,"GillSansMT-BoldItalic","Gill Sans MT","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\GILB____.TTF",0,"GillSansMT-Bold","Gill Sans MT","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GILI____.TTF",0,"GillSansMT-Italic","Gill Sans MT","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\FRAHVIT.TTF",0,"FranklinGothic-HeavyItalic","Franklin Gothic Heavy","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\FRADMIT.TTF",0,"FranklinGothic-DemiItalic","Franklin Gothic Demi","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\FRABKIT.TTF",0,"FranklinGothic-BookItalic","Franklin Gothic Book","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ELEPHNTI.TTF",0,"Elephant-Italic","Elephant","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SCHLBKB.TTF",0,"CenturySchoolbook-Bold","Century Schoolbook","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SCHLBKBI.TTF",0,"CenturySchoolbook-BoldItalic","Century Schoolbook","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SCHLBKI.TTF",0,"CenturySchoolbook-Italic","Century Schoolbook","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\CALISTB.TTF",0,"CalisMTBol","Calisto MT","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CALISTBI.TTF",0,"CalistoMT-BoldItalic","Calisto MT","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\CALISTI.TTF",0,"CalistoMT-Italic","Calisto MT","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\BOD_CB.TTF",0,"BodoniMTCondensed-Bold","Bodoni MT","Condensed Bold","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOD_CBI.TTF",0,"BodoniMTCondensed-BoldItalic","Bodoni MT","Condensed Bold Italic","bold","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\BOD_CI.TTF",0,"BodoniMTCondensed-Italic","Bodoni MT","Condensed Italic","normal","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\BOD_BLAI.TTF",0,"BodoniMTBlack-Italic","Bodoni MT","Black Italic","heavy","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\BOD_B.TTF",0,"BodoniMT-Bold","Bodoni MT","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BOD_BI.TTF",0,"BodoniMT-BoldItalic","Bodoni MT","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\BOD_I.TTF",0,"BodoniMT-Italic","Bodoni MT","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AGENCYR.TTF",0,"AgencyFB-Reg","Agency FB","Regular","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\Guitar Pro 5.ttf",0,"GuitarPro5","Guitar Pro 5","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ACaslonPro-Bold.otf",0,"ACaslonPro-Bold","Adobe Caslon Pro","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ACaslonPro-BoldItalic.otf",0,"ACaslonPro-BoldItalic","Adobe Caslon Pro","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ACaslonPro-Italic.otf",0,"ACaslonPro-Italic","Adobe Caslon Pro","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ACaslonPro-Regular.otf",0,"ACaslonPro-Regular","Adobe Caslon Pro","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ACaslonPro-Semibold.otf",0,"ACaslonPro-Semibold","Adobe Caslon Pro","Semibold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ACaslonPro-SemiboldItalic.otf",0,"ACaslonPro-SemiboldItalic","Adobe Caslon Pro","Semibold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AdobeFangsongStd-Regular.otf",0,"AdobeFangsongStd-Regular","Adobe Fangsong Std","R","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeFanHeitiStd-Bold.otf",0,"AdobeFanHeitiStd-Bold","Adobe Fan Heiti Std","B","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeGothicStd-Bold.otf",0,"AdobeGothicStd-Bold","Adobe Gothic Std","B","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeHeitiStd-Regular.otf",0,"AdobeHeitiStd-Regular","Adobe Heiti Std","R","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeKaitiStd-Regular.otf",0,"AdobeKaitiStd-Regular","Adobe Kaiti Std","R","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeNaskh-Medium.otf",0,"AdobeNaskh-Medium","Adobe Naskh","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AGaramondPro-Bold.otf",0,"AGaramondPro-Bold","Adobe Garamond Pro","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AGaramondPro-BoldItalic.otf",0,"AGaramondPro-BoldItalic","Adobe Garamond Pro","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AGaramondPro-Italic.otf",0,"AGaramondPro-Italic","Adobe Garamond Pro","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AGaramondPro-Regular.otf",0,"AGaramondPro-Regular","Adobe Garamond Pro","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BirchStd.otf",0,"BirchStd","Birch Std","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BlackoakStd.otf",0,"BlackoakStd","Blackoak Std","Black","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BrushScriptStd.otf",0,"BrushScriptStd","Brush Script Std","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ChaparralPro-Bold.otf",0,"ChaparralPro-Bold","Chaparral Pro","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\ChaparralPro-BoldIt.otf",0,"ChaparralPro-BoldIt","Chaparral Pro","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ChaparralPro-Italic.otf",0,"ChaparralPro-Italic","Chaparral Pro","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ChaparralPro-LightIt.otf",0,"ChaparralPro-LightIt","Chaparral Pro","Light Italic","light","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\ChaparralPro-Regular.otf",0,"ChaparralPro-Regular","Chaparral Pro","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CharlemagneStd-Bold.otf",0,"CharlemagneStd-Bold","Charlemagne Std","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\CooperBlackStd-Italic.otf",0,"CooperBlackStd-Italic","Cooper Std","Black Italic","heavy","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\CooperBlackStd.otf",0,"CooperBlackStd","Cooper Std","Black","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\GiddyupStd.otf",0,"GiddyupStd","Giddyup Std","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HoboStd.otf",0,"HoboStd","Hobo Std","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPro-Bold.otf",0,"KozGoPro-Bold","Kozuka Gothic Pro","B","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPro-ExtraLight.otf",0,"KozGoPro-ExtraLight","Kozuka Gothic Pro","EL",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPro-Heavy.otf",0,"KozGoPro-Heavy","Kozuka Gothic Pro","H","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPro-Light.otf",0,"KozGoPro-Light","Kozuka Gothic Pro","L","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPro-Medium.otf",0,"KozGoPro-Medium","Kozuka Gothic Pro","M","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPro-Regular.otf",0,"KozGoPro-Regular","Kozuka Gothic Pro","R","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPro-Bold.otf",0,"KozMinPro-Bold","Kozuka Mincho Pro","B","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPro-ExtraLight.otf",0,"KozMinPro-ExtraLight","Kozuka Mincho Pro","EL",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPro-Heavy.otf",0,"KozMinPro-Heavy","Kozuka Mincho Pro","H","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPro-Light.otf",0,"KozMinPro-Light","Kozuka Mincho Pro","L","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPro-Medium.otf",0,"KozMinPro-Medium","Kozuka Mincho Pro","M","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPro-Regular.otf",0,"KozMinPro-Regular","Kozuka Mincho Pro","R","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LithosPro-Black.otf",0,"LithosPro-Black","Lithos Pro","850",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LithosPro-Regular.otf",0,"LithosPro-Regular","Lithos Pro","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MesquiteStd.otf",0,"MesquiteStd","Mesquite Std","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-BoldCn.otf",0,"MinionPro-BoldCn","Minion Pro","Bold Condensed","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-BoldCnIt.otf",0,"MinionPro-BoldCnIt","Minion Pro","Bold Condensed Italic","bold","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-Medium.otf",0,"MinionPro-Medium","Minion Pro","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-MediumIt.otf",0,"MinionPro-MediumIt","Minion Pro","Medium Italic","medium","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-Semibold.otf",0,"MinionPro-Semibold","Minion Pro","Semibold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-SemiboldIt.otf",0,"MinionPro-SemiboldIt","Minion Pro","Semibold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadArabic-Bold.otf",0,"MyriadArabic-Bold","Myriad Arabic","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadArabic-BoldIt.otf",0,"MyriadArabic-BoldIt","Myriad Arabic","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadArabic-It.otf",0,"MyriadArabic-It","Myriad Arabic","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadArabic-Regular.otf",0,"MyriadArabic-Regular","Myriad Arabic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NuevaStd-Bold.otf",0,"NuevaStd-Bold","Nueva Std","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NuevaStd-BoldCond.otf",0,"NuevaStd-BoldCond","Nueva Std","Bold Condensed","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\NuevaStd-BoldCondItalic.otf",0,"NuevaStd-BoldCondItalic","Nueva Std","Bold Condensed Italic","bold","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\NuevaStd-Cond.otf",0,"NuevaStd-Cond","Nueva Std","Condensed","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\NuevaStd-CondItalic.otf",0,"NuevaStd-CondItalic","Nueva Std","Condensed Italic","normal","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\NuevaStd-Italic.otf",0,"NuevaStd-Italic","Nueva Std","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\OCRAStd.otf",0,"OCRAStd","OCR A Std","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\OratorStd-Slanted.otf",0,"OratorStd-Slanted","Orator Std","Italic","normal","normal",TRUE,TRUE
+"C:\WINDOWS\Fonts\OratorStd.otf",0,"OratorStd","Orator Std","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\PoplarStd.otf",0,"PoplarStd","Poplar Std","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\PrestigeEliteStd-Bd.otf",0,"PrestigeEliteStd-Bd","Prestige Elite Std","Bold","bold","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\RosewoodStd-Regular.otf",0,"RosewoodStd-Regular","Rosewood Std","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\StencilStd.otf",0,"StencilStd","Stencil Std","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TektonPro-Bold.otf",0,"TektonPro-Bold","Tekton Pro","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TektonPro-BoldCond.otf",0,"TektonPro-BoldCond","Tekton Pro","Bold Condensed","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\TektonPro-BoldExt.otf",0,"TektonPro-BoldExt","Tekton Pro","Bold Expanded","bold","expanded",FALSE,FALSE
+"C:\WINDOWS\Fonts\TektonPro-BoldObl.otf",0,"TektonPro-BoldObl","Tekton Pro","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\TrajanPro-Bold.otf",0,"TrajanPro-Bold","Trajan Pro","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\TrajanPro-Regular.otf",0,"TrajanPro-Regular","Trajan Pro","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeArabic-Bold.otf",0,"AdobeArabic-Bold","Adobe Arabic","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeArabic-BoldItalic.otf",0,"AdobeArabic-BoldItalic","Adobe Arabic","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AdobeArabic-Italic.otf",0,"AdobeArabic-Italic","Adobe Arabic","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AdobeArabic-Regular.otf",0,"AdobeArabic-Regular","Adobe Arabic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeDevanagari-Bold.otf",0,"AdobeDevanagari-Bold","Adobe Devanagari","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeDevanagari-BoldItalic.otf",0,"AdobeDevanagari-BoldItalic","Adobe Devanagari","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AdobeDevanagari-Italic.otf",0,"AdobeDevanagari-Italic","Adobe Devanagari","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AdobeDevanagari-Regular.otf",0,"AdobeDevanagari-Regular","Adobe Devanagari","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeHebrew-Bold.otf",0,"AdobeHebrew-Bold","Adobe Hebrew","Bold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeHebrew-BoldItalic.otf",0,"AdobeHebrew-BoldItalic","Adobe Hebrew","Bold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AdobeHebrew-Italic.otf",0,"AdobeHebrew-Italic","Adobe Hebrew","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\AdobeHebrew-Regular.otf",0,"AdobeHebrew-Regular","Adobe Hebrew","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeMingStd-Light.otf",0,"AdobeMingStd-Light","Adobe Ming Std","L","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeMyungjoStd-Medium.otf",0,"AdobeMyungjoStd-Medium","Adobe Myungjo Std","M","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\AdobeSongStd-Light.otf",0,"AdobeSongStd-Light","Adobe Song Std","L","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPr6N-Bold.otf",0,"KozGoPr6N-Bold","Kozuka Gothic Pr6N","B","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPr6N-ExtraLight.otf",0,"KozGoPr6N-ExtraLight","Kozuka Gothic Pr6N","EL",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPr6N-Heavy.otf",0,"KozGoPr6N-Heavy","Kozuka Gothic Pr6N","H","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPr6N-Light.otf",0,"KozGoPr6N-Light","Kozuka Gothic Pr6N","L","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPr6N-Medium.otf",0,"KozGoPr6N-Medium","Kozuka Gothic Pr6N","M","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozGoPr6N-Regular.otf",0,"KozGoPr6N-Regular","Kozuka Gothic Pr6N","R","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPr6N-Bold.otf",0,"KozMinPr6N-Bold","Kozuka Mincho Pr6N","B","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPr6N-ExtraLight.otf",0,"KozMinPr6N-ExtraLight","Kozuka Mincho Pr6N","EL",NA,"normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPr6N-Heavy.otf",0,"KozMinPr6N-Heavy","Kozuka Mincho Pr6N","H","heavy","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPr6N-Light.otf",0,"KozMinPr6N-Light","Kozuka Mincho Pr6N","L","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPr6N-Medium.otf",0,"KozMinPr6N-Medium","Kozuka Mincho Pr6N","M","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\KozMinPr6N-Regular.otf",0,"KozMinPr6N-Regular","Kozuka Mincho Pr6N","R","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LetterGothicStd-Bold.otf",0,"LetterGothicStd-Bold","Letter Gothic Std","Bold","bold","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\LetterGothicStd-BoldSlanted.otf",0,"LetterGothicStd-BoldSlanted","Letter Gothic Std","Bold Italic","bold","normal",TRUE,TRUE
+"C:\WINDOWS\Fonts\LetterGothicStd-Slanted.otf",0,"LetterGothicStd-Slanted","Letter Gothic Std","Italic","normal","normal",TRUE,TRUE
+"C:\WINDOWS\Fonts\LetterGothicStd.otf",0,"LetterGothicStd","Letter Gothic Std","Regular","normal","normal",FALSE,TRUE
+"C:\WINDOWS\Fonts\MinionPro-Bold.otf",0,"MinionPro-Bold","Minion Pro","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-BoldIt.otf",0,"MinionPro-BoldIt","Minion Pro","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-It.otf",0,"MinionPro-It","Minion Pro","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MinionPro-Regular.otf",0,"MinionPro-Regular","Minion Pro","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadHebrew-Bold.otf",0,"MyriadHebrew-Bold","Myriad Hebrew","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadHebrew-BoldIt.otf",0,"MyriadHebrew-BoldIt","Myriad Hebrew","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadHebrew-It.otf",0,"MyriadHebrew-It","Myriad Hebrew","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadHebrew-Regular.otf",0,"MyriadHebrew-Regular","Myriad Hebrew","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-Bold.otf",0,"MyriadPro-Bold","Myriad Pro","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-BoldCond.otf",0,"MyriadPro-BoldCond","Myriad Pro","Bold Condensed","bold","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-BoldCondIt.otf",0,"MyriadPro-BoldCondIt","Myriad Pro","Bold Condensed Italic","bold","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-BoldIt.otf",0,"MyriadPro-BoldIt","Myriad Pro","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-Cond.otf",0,"MyriadPro-Cond","Myriad Pro","Condensed","normal","condensed",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-CondIt.otf",0,"MyriadPro-CondIt","Myriad Pro","Condensed Italic","normal","condensed",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-It.otf",0,"MyriadPro-It","Myriad Pro","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-Regular.otf",0,"MyriadPro-Regular","Myriad Pro","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-Semibold.otf",0,"MyriadPro-Semibold","Myriad Pro","Semibold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MyriadPro-SemiboldIt.otf",0,"MyriadPro-SemiboldIt","Myriad Pro","Semibold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\NotoSansKR-Bold.ttf",0,"NotoSansKR-Bold","Noto Sans Korean","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NotoSansKR-Medium.ttf",0,"NotoSansKR-Medium","Noto Sans Korean","Medium","medium","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NotoSansKR-Regular.ttf",0,"NotoSansKR-Regular","Noto Sans Korean","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\NanumGothic.ttf",0,"NanumGothic","NanumGothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LEELAWAD.TTF",0,"Leelawadee","Leelawadee","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MSUIGHUR.TTF",0,"MicrosoftUighur","Microsoft Uighur","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LEELAWDB.TTF",0,"Leelawadee-Bold","Leelawadee","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MSUIGHUB.TTF",0,"MicrosoftUighur-Bold","Microsoft Uighur","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SamsungSimplified_Bd.ttf",0,"HPSimplified-Bold","HP Simplified","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SamsungSimplified_BdIt.ttf",0,"HPSimplified-BoldItalic","HP Simplified","Bold Italic","bold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SamsungSimplified_It.ttf",0,"HPSimplified-Italic","HP Simplified","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SamsungSimplified_Lt.ttf",0,"HPSimplified-Light","HP Simplified","Light","light","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\SamsungSimplified_LtIt.ttf",0,"HPSimplified-LightItalic","HP Simplified","Light Italic","light","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\SamsungSimplified_Rg.ttf",0,"HPSimplified-Regular","HP Simplified","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANDotum.ttf",0,"HCRDotum","HCR Dotum","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANDotumB.ttf",0,"HCRDotum-Bold","HCR Dotum","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANDotumExt.ttf",0,"HCRDotumExt","HCR Dotum Ext","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANBatang.ttf",0,"HCRBatang","HCR Batang","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANBatangB.ttf",0,"HCRBatang-Bold","HCR Batang","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANBatangExt.ttf",0,"HCRBatangExt","HCR Batang Ext","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANBatangExtB.ttf",0,"HCRBatangExtB","HCR Batang ExtB","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANBatangExtBB.ttf",0,"HCRBatangExtB-Bold","HCR Batang ExtB","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HYHWPEQ.TTF",0,"HyhwpEQ","HyhwpEQ","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HancomEQN.ttf",0,"HancomEQN","HancomEQN","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\JUMJA.TTF",0,"Jumja-1","NewJumja","Normal","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Hancom Gothic Bold.ttf",0,"HancomGothicBold","Hancom Gothic","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\Hancom Gothic Regular.ttf",0,"HancomGothicRegular","Hancom Gothic","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HANWing2.ttf",0,"HaanWing2","Haan Wing2","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HanSantteutDotum-Regular.ttf",0,"HanSantteutDotumRegular","Han Santteut Dotum","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\HanSantteutDotum-Bold.ttf",0,"HanSantteutDotumBold","Han Santteut Dotum","Bold","bold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LBRITED.TTF",0,"LucidaBright-Demi","Lucida Bright","Demibold","semibold","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LBRITEDI.TTF",0,"LucidaBright-DemiItalic","Lucida Bright","Demibold Italic","semibold","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\LBRITEI.TTF",0,"LucidaBright-Italic","Lucida Bright","Italic","normal","normal",TRUE,FALSE
+"C:\WINDOWS\Fonts\LSANS.TTF",0,"LucidaSans","Lucida Sans","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\LTYPEB.TTF",0,"LucidaSans-TypewriterBold","Lucida Sans Typewriter","Bold","semibold","semicondensed",FALSE,TRUE
+"C:\WINDOWS\Fonts\LTYPE.TTF",0,"LucidaSans-Typewriter","Lucida Sans Typewriter","Regular","normal","semicondensed",FALSE,TRUE
+"C:\WINDOWS\Fonts\SimsunExtG.ttf",0,"SimSun-ExtG","SimSun-ExtG","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\MTEXTRA.TTF",0,"MT-Extra","MT Extra","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\OUTLOOK.TTF",0,"MSOutlook","MS Outlook","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\BSSYM7.TTF",0,"BookshelfSymbolSeven","Bookshelf Symbol 7","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\REFSAN.TTF",0,"MSReferenceSansSerif","MS Reference Sans Serif","Regular","normal","normal",FALSE,FALSE
+"C:\WINDOWS\Fonts\REFSPCL.TTF",0,"MSReferenceSpecialty","MS Reference Specialty","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 명조L.ttf",0,"SandSm","SD_Myungjo L","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 명조M.ttf",0,"SandTm","SD_Myungjo M","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 고딕B.ttf",0,"SandKg","SD_Gothic B","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 고딕L.ttf",0,"SandJg","SD_Gothic L","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 고딕M.ttf",0,"SandTg","SD_Gothic M","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 광수B.ttf",0,"SanKsB","SDKwangSoo B","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 광수L.TTF",0,"SanKsL","SDKwangSoo L","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 광수M.ttf",0,"SanKsM","SDKwangSoo M","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\산돌 명조B.ttf",0,"SandKm","SD_Myungjo B","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\나눔손글씨붓.ttf",0,"NanumBrush","Nanum Brush Script","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HANBatang.ttf",0,"HCRBatang","HCR Batang","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HANBatangB.ttf",0,"HCRBatang-Bold","HCR Batang","Bold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HANDotum.ttf",0,"HCRDotum","HCR Dotum","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HANDotumB.ttf",0,"HCRDotum-Bold","HCR Dotum","Bold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\-윤고딕550.ttf",0,"YGO550","Yoon YGO 550_TT","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\-윤고딕520.ttf",0,"YGO520","Yoon YGO 520_TT","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\-윤고딕530.ttf",0,"YGO530","Yoon YGO 530_TT","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\-윤고딕540.ttf",0,"YGO540","Yoon YGO 540_TT","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\한겨레결체.TTF",0,"TSThgrgl","?????","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\Tlab신영복체.ttf",0,"TlabShinYB","TlabShinYB","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\조선일보명조.ttf",0,"ChosunilboNM","ChosunilboNM","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\Rix밝은고딕M.ttf",0,"RixBGM","RixBG M","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\Rix모던고딕L.ttf",0,"RixMGoL","RixMGo L","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\Rix밝은고딕EB.ttf",0,"RixBGEB","RixBG EB","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\나눔고딕.ttf",0,"NanumGothic","NanumGothic","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\나눔고딕Bold.ttf",0,"NanumGothicBold","NanumGothic","Bold","semibold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\10X10.ttf",0,"10X10","10X10","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\Rix정고딕B.ttf",0,"RixJGoB","RixJGo B","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\돋움수정.ttf",0,"-Bold","????","Bold","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\돋움기울기수정.ttf",0,"-Bold","???????","Bold","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\Rix고딕B.ttf",0,"RixGoB","RixGo B","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\정글고딕기울기.ttf",0,"-Bold","???????","Bold","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\제주고딕기울기수정.ttf",0,"-Bold","?????????","Bold","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\10X10Bold.ttf",0,"10X10Bold","10X10","Bold","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\Rix밝은고딕B.ttf",0,"RixBGB","RixBG B","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\나눔고딕ExtraBold.ttf",0,"NanumGothicExtraBold","NanumGothic","ExtraBold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSansKR-Thin.otf",0,"NotoSansKR-Thin","Noto Sans KR","Thin",NA,"normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSansKR-Black.otf",0,"NotoSansKR-Black","Noto Sans KR","Black","heavy","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSansKR-Bold.otf",0,"NotoSansKR-Bold","Noto Sans KR","Bold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSansKR-Light.otf",0,"NotoSansKR-Light","Noto Sans KR","Light","light","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSansKR-Medium.otf",0,"NotoSansKR-Medium","Noto Sans KR","Medium","medium","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSansKR-Regular.otf",0,"NotoSansKR-Regular","Noto Sans KR","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\고려대학교B.ttf",0,"","KorUB","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\고려대학교L.ttf",0,"","KorUL","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\고려대학교M.ttf",0,"","KorUM","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KUCentennial.otf",0,"KUCentennialOTR","Korea Univercity Centennial OTF","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KUCentennial.ttf",0,"KUCentennialTTR","Korea Univercity Centennial","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NanumBarunGothicLight.ttf",0,"NanumBarunGothicLight","NanumBarunGothic","Light","light","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NanumPen.ttf",0,"NanumPen","Nanum Pen Script","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NanumBarunGothicBold.ttf",0,"NanumBarunGothicBold","NanumBarunGothic","Bold","semibold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NanumBarunGothicUltraLight.ttf",0,"NanumBarunGothicUltraLight","NanumBarunGothic","UltraLight","light","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KoPubWorld Batang Bold.ttf",0,"KoPubWorldBatangBold","KoPubWorldBatang","Bold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KoPubWorld Batang Light.ttf",0,"KoPubWorldBatangLight","KoPubWorldBatang","Light","light","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KoPubWorld Batang Medium.ttf",0,"KoPubWorldBatangMedium","KoPubWorldBatang","Medium","medium","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KoPubWorld Dotum Bold.ttf",0,"KoPubWorldDotumBold","KoPubWorldDotum","Bold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KoPubWorld Dotum Light.ttf",0,"KoPubWorldDotumLight","KoPubWorldDotum","Light","light","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\KoPubWorld Dotum Medium.ttf",0,"KoPubWorldDotumMedium","KoPubWorldDotum","Medium","medium","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HY울릉도B.TTF",0,"HYwulB","HYwulB","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HY울릉도E.TTF",0,"H2wulE","HY???E","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HY울릉도L.TTF",0,"","","","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\HY울릉도M.TTF",0,"HYwulM","HYwulM","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\D2CodingBold-Ver1.3.2-20180524-ligature.ttf",0,"D2CodingligatureBold","D2Coding ligature","Bold","bold","normal",FALSE,TRUE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\D2Coding-Ver1.3.2-20180524-ligature.ttf",0,"D2Codingligature","D2Coding ligature","Regular","normal","normal",FALSE,TRUE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\D2CodingBold-Ver1.3.2-20180524.ttf",0,"D2CodingBold","D2Coding","Bold","bold","normal",FALSE,TRUE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\D2Coding-Ver1.3.2-20180524.ttf",0,"D2Coding","D2Coding","Regular","normal","normal",FALSE,TRUE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-Black.ttf",0,"PublicSans-Black","Public Sans","Black","heavy","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-BlackItalic.ttf",0,"PublicSans-BlackItalic","Public Sans","Black Italic","heavy","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-Bold.ttf",0,"PublicSans-Bold","Public Sans","Bold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-BoldItalic.ttf",0,"PublicSans-BoldItalic","Public Sans","Bold Italic","bold","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-ExtraBold.ttf",0,"PublicSans-ExtraBold","Public Sans","ExtraBold","ultrabold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-ExtraBoldItalic.ttf",0,"PublicSans-ExtraBoldItalic","Public Sans","ExtraBold Italic","ultrabold","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-ExtraLight.ttf",0,"PublicSans-ExtraLight","Public Sans","ExtraLight",NA,"normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-ExtraLightItalic.ttf",0,"PublicSans-ExtraLightItalic","Public Sans","ExtraLight Italic",NA,"normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-Italic.ttf",0,"PublicSans-Italic","Public Sans","Italic","normal","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-Light.ttf",0,"PublicSans-Light","Public Sans","Light","light","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-LightItalic.ttf",0,"PublicSans-LightItalic","Public Sans","Light Italic","light","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-Medium.ttf",0,"PublicSans-Medium","Public Sans","Medium","medium","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-MediumItalic.ttf",0,"PublicSans-MediumItalic","Public Sans","Medium Italic","medium","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-Regular.ttf",0,"PublicSans-Regular","Public Sans","Regular","normal","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-SemiBold.ttf",0,"PublicSans-SemiBold","Public Sans","SemiBold","semibold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-SemiBoldItalic.ttf",0,"PublicSans-SemiBoldItalic","Public Sans","SemiBold Italic","semibold","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-Italic-VariableFont_wght.ttf",0,"PublicSans-ThinItalic","Public Sans","Thin Italic","thin","normal",TRUE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\PublicSans-VariableFont_wght.ttf",0,"PublicSans-Thin","Public Sans","Thin","thin","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSerifKR-VariableFont_wght.ttf",0,"NotoSerifKR-ExtraLight","Noto Serif KR","ExtraLight","ultralight","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSerifKR-Black.ttf",0,"NotoSerifKR-Black","Noto Serif KR","Black","heavy","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSerifKR-Bold.ttf",0,"NotoSerifKR-Bold","Noto Serif KR","Bold","bold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSerifKR-ExtraBold.ttf",0,"NotoSerifKR-ExtraBold","Noto Serif KR","ExtraBold","ultrabold","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSerifKR-Light.ttf",0,"NotoSerifKR-Light","Noto Serif KR","Light","light","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSerifKR-Medium.ttf",0,"NotoSerifKR-Medium","Noto Serif KR","Medium","medium","normal",FALSE,FALSE
+"C:\Users\박영삼\AppData\Local\Microsoft\Windows\Fonts\NotoSerifKR-Regular.ttf",0,"NotoSerifKR-Regular","Noto Serif KR","Regular","normal","normal",FALSE,FALSE
